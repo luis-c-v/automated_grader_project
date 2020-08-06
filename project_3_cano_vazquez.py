@@ -11,8 +11,6 @@ Program excutes a grading policy that requests two files and returns a detailed 
 NUMS = "0123456789"
 
 
-
-
 def get_students(filename):
     """Takes class roster and returns a dictionary of the class using student Ids"""
     class_copy = open(filename)

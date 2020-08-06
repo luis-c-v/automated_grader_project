@@ -1,0 +1,21 @@
+# Marks for class52
+# Comments and blank lines should be ignored
+# Comments start with a # character, eg, this line is a comment
+@model_answers: 44121124334342412313
+@class_name: FUN101
+@number_of_questions: 20
+
+@difficulty: bonkers
+@date: 26th Julember
+
+
+@begin:student_answers
+2365568,44222221213334422314
+5215521,23423433334342111333
+8963113,33124114324423412341
+7576240,12123114221142222314
+6914206,44221233334144223244
+3544826,21141211334342423311
+@end:student_answers
+
+@lecturer: Slarty Bartfast
